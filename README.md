@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Initializing+System...;Access+Granted+✔;Ethical+Hacker+in+Progress...;Cybersecurity;Hack.+Learn.+Secure." />
+</p>
+
+
 # 👋 Hi, I'm Navdeep!
 
 💻 Programmer | 🎮 Gamer | 🔐 Cybersecurity Enthusiast |⚡Ethical Hacker 🚀 Open Source | 
@@ -45,9 +50,22 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn:(https://www.linkedin.com/in/navdeepjangra)
+- 💼 LinkedIn: <a href="https://linkedin.com/in/navdeepjangra">Navdeep<a>
 
 ---
 
 ## ✨ Fun Fact
-> "I don’t just use technology — I want to understand how it works and how to secure it."
+- "I don’t just use technology — I want to understand how it works and how to secure it."
+
+---
+
+## ⚡ TERMINAL QUOTE
+```bash
+> while(alive){
+>   eat();
+>   code();
+>   sleep();
+>   repeat();
+> }
+```
+---
