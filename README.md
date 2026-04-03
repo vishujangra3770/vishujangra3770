@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Navdeep!
 
-💻 Programmer | 🎮 Gamer | 🔐 Cybersecurity Enthusiast  
+💻 Programmer | 🎮 Gamer | 🔐 Cybersecurity Enthusiast |⚡Ethical Hacker 🚀 Open Source | 
 
 ---
 
